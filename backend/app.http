@@ -1,0 +1,20 @@
+### Create a new user
+POST http://localhost:9000/users/
+Content-Type: application/json
+
+{   
+    "name":"gugan",
+    "username":"gugan009",
+    "password": "Gugan2004$"
+}
+
+###
+
+### Login with the user
+POST http://localhost:9000/login/
+Content-Type: application/json
+
+{
+    "username":"gugan009",
+    "password": "Gugan2004$"
+}

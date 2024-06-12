@@ -1,0 +1,32 @@
+.li{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #434343;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.con{
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cons{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.btn{
+    border: none;
+    background-color: transparent;
+    font-size: 20px;
+}
