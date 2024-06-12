@@ -16,3 +16,4 @@ For frontend development used react js:
 
 For registration: input cannot be empty, password must be equal to confirm password and password length must be greater than 5. 
 
+For cloning this project use "git clone https://github.com/gugan009/bindassdeal.git"
